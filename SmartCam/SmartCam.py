@@ -17,7 +17,7 @@ else:
 lastNFrames = 4
 ip = '192.168.0.11'
 username = 'admin'
-password = 'dickbutt'
+password = '########'
 streamUrl = "rtsp://"+username+":"+password+"@"+ip+"/live/ch0"
 
 ## Frame parsing thread object
